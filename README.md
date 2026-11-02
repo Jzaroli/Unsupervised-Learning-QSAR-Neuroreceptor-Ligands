@@ -97,7 +97,7 @@ I proceeded with 4 principle components to keep dimensionality down for K-means 
 It wasn't possible to segment the data back into the four receptor classes based on the four PCA components. The k-means algorithm did not segment based on neuromolecular target but based on structural (dis)similarities.
   
 * Cluster 0 represents the molecular weight/size component which shows that dopamine class segments well into this cluster. 
-* The GABA class is more highly clusterd in PCA 2 and 4 for hydrophilicity vs lipophylicity and ring count vs rotatable bonds.
+* The GABA class is more highly clustered in PCA 2 and 4 for hydrophilicity vs lipophilicity and ring count vs rotatable bonds.
 * The FractionCSP3 dominated cluster has very few candidates total and of the data present in this cluster, a vast majority of dopamine ligand molecules, suggesting that higher molecular weight/size correlates with three-dimensional complexity in this class.
 * Finally, the fourth cluster which includes the ring count vs rotatable bonds component shows a strong presence from the GABA, histamine and serotonin class.
   
