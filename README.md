@@ -1,7 +1,7 @@
 # Unsupervised Learning: QSAR & Neuroreceptor Ligands
   
 ## Project Topic:  
-The goal for today is to run unsupervised learning algorithms on a dataset comprised of small molecules known to bind to dopmainergi, serotonergioc, gabaergic, and histaminergic neuroes. Their chemical SMILES will be converted into various features and which will then be used to to classify the molecules back into their target receptor classes. The project uses both PCA and K-Means.
+The goal for this mini-Quantitative Structure-Activity Relationship (QSAR) project is to run unsupervised learning algorithms on a dataset of small molecules known to bind to dopamine, serotonin, GABA, and histamine receptor classes. Their chemical SMILES were converted into various physicochemical features used to classify the molecules back into their target receptor classes. As you will find out, this direct classification goal was not achieved; and for very good reasons. The unsupervised learning algorithms used for this project are Principal Component Analysis (PCA) and K-Means clustering.
 
 ## Data Overview:
 
